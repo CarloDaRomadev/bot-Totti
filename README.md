@@ -1,6 +1,5 @@
 # Francesco Totti – Il Capitano 🔶🐺
 
-[![FOL](https://img.shields.io/badge/topic-First--Order%20Logic-yellow)](https://en.wikipedia.org/wiki/First-order_logic)
 [![GOAT](https://img.shields.io/badge/status-Legendary-red)](https://en.wikipedia.org/wiki/Francesco_Totti)
 [![Roma](https://img.shields.io/badge/team-AS%20Roma-maroon)](https://www.asroma.com/)
 [![One Club Man](https://img.shields.io/badge/loyalty-One%20Club%20Man-orange)](https://en.wikipedia.org/wiki/One-club_man)
